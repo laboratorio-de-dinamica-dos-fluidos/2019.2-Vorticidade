@@ -22,3 +22,14 @@ Realizar o experimento de forma definitiva para tirar os dados e conclusões sob
 
 ## Avaliação de Viabilidade: 
 De acordo com a análise feita da literatura e dos experimentos já feitos sobre o tema, o projeto é considerado como viável. Pois os instrumentos que serão utilizados são de fácil acesso, e o processo de montagem executável. Assim, o grupo poderá observar na prática os conceitos teóricos da matéria. 
+
+## Planejamento e Preparação
+### Materiais Usados
+Diante do experimento idealizado, fica claro a necessidade de uso de instrumentos, sendo assim, alguns serão adquiridos pelo grupo e outros fornecidos pela Universidade. Abaixo segue a lista de materiais: 
+1) Recipiente transparente
+2) Fita de Metal
+3) Bateria 12V
+4) Imãs 
+5) Dois cabos jacaré
+6) Solução condutora
+7) Cilindro metálico  
