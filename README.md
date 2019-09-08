@@ -10,7 +10,7 @@ Yan Rodrigues Gonçalves - 16/0149215
 O trabalho desenvolvido tem como objetivo demonstrar e analisar a ação de uma força magnética produzindo vórtice em água, com isso pode-se definir propriedades relacionadas a vorticidade. Será mostrada a ação de um campo magnético no líquido e observaremos as ações criadas, a variação do movimento do vórtice.
 
 ## Requisitos de Solução:
-Sabendo que um vórtice em um fluído se condiciona a rotação das partículas fluídas acompanhadas ou não de alguma deformação transversal, o grupo visa com o experimento, gerar um campo magnético através de uma fonte de tensão, provar que o surgimento da força magnética não se condiciona apenas a condutores metálicos e mostrar as propriedades do vórtice formado. Além disso, invertendo a polaridade da fonte de tensão, o fluído terá o sentido de rotação alterado. Para isso acontecer, o grupo devera montar o experimento utilizando componentes que são ímãs para produzir um campo magnético estendido, uma fita de metal, uma bateria e uma solução salina para formar eletrólito.
+Sabendo que um vórtice em um fluído se condiciona a rotação das partículas fluídas acopanhadas ou não de alguma deformação transversal, o grupo com o intuito de solucionar o problema apresentado, usará um imã para gerar um campo magnético através de uma fonte de tensão. Além disso, invertendo a polaridade da fonte de tensão, o fluído terá o sentido de rotação alterado. Para isso acontecer, o grupo devera montar o experimento utilizando componentes que são ímãs para produzir um campo magnético estendido, uma fita de metal, uma bateria e uma solução salina para formar eletrólito.
 
 ## Escopo do Experimento: 
 ### Etapa 1:
@@ -33,3 +33,14 @@ Diante do experimento idealizado, fica claro a necessidade de uso de instrumento
 5) Dois cabos jacaré
 6) Solução condutora
 7) Cilindro metálico  
+### Distrribuição de Tarefas
+Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimento será feita de maneira simples, na qual:
+- Um membro será responsável pela aquisição de materiais;
+- Um membro deverá ser responsável pela marcação do laboratório;
+- Todos os membros deverão ser responsáveis pela montagem e execução; 
+### Cronograma
+- 11/09: Compra de materiais necessários;
+- 18/09: Montagem e execução do experimento;
+- 21/09: Entrega de fotos da montagem; 
+- 25/09: Execução do experimento, caso seja necessário realizar uma duplicata; 
+- 28/09: Entrega de dados e descrições do experimento; 
