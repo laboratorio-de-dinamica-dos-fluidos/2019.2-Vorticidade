@@ -48,3 +48,5 @@ Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimen
 - 21/09: Entrega de fotos da montagem; 
 - 25/09: Nova execução do experimento, caso seja necessário realizar uma duplicata; 
 - 28/09: Entrega de dados e descrições do experimento.
+### Dados a serem medidos e/ou calculados
+O experimento será feito para mostrar visualmente o efeito de um campo magnético em um líquido produzindo um vórtice, os dados serão obtidos por meio de fotos e videos do experimento. Matematicamente, podemos determinar a vorticidade analisada no experimento por meio do campo vetorial definido pelo rotacional do campo de movimento.
