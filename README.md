@@ -50,3 +50,8 @@ Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimen
 - 28/09: Entrega de dados e descrições do experimento.
 ### Dados a serem medidos e/ou calculados
 O experimento será feito para mostrar visualmente o efeito de um campo magnético em um líquido produzindo um vórtice, os dados serão obtidos por meio de fotos e videos do experimento. Matematicamente, podemos determinar a vorticidade analisada no experimento por meio do campo vetorial definido pelo rotacional do campo de movimento.
+![cats](https://user-images.githubusercontent.com/29080946/64964641-d6e8dd00-d871-11e9-808f-c7ea4fa4785d.jpg)
+### Resultados
+O resultado será a comprovação do efeito de vorticidade criado na água quando aplicamos um campo magnético e o cálculo dessa vorticidade por meio do campo de movimento produzido. Também haverá variação da velocidade do vortice ou do seu movimento quando alterar os polos da bateria.
+
+
