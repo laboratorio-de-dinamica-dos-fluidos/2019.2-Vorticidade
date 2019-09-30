@@ -10,7 +10,7 @@ Yan Rodrigues Gonçalves - 16/0149215
 O trabalho desenvolvido tem como objetivo demonstrar e analisar a ação de uma força magnética produzindo vórtice em água, com isso pode-se definir propriedades relacionadas a vorticidade. Será mostrada a ação de um campo magnético no líquido e observaremos as ações criadas, a variação do movimento do vórtice.
 
 ## Requisitos de Solução
-Sabendo que um vórtice em um fluído se condiciona a rotação das partículas fluídas acopanhadas ou não de alguma deformação transversal, o grupo com o intuito de solucionar o problema apresentado, usará um imã para gerar um campo magnético através de uma fonte de tensão em um recipiente com água. Além disso, invertendo a polaridade da fonte de tensão, o fluído terá o sentido de rotação alterado. 
+Sabendo que um vórtice em um fluído se condiciona a rotação das partículas fluídas acompanhadas ou não de alguma deformação transversal, o grupo com o intuito de solucionar o problema apresentado, usará um imã para gerar um campo magnético através de uma fonte de tensão em um recipiente com água. Além disso, invertendo a polaridade da fonte de tensão, o fluído terá o sentido de rotação alterado.
 
 ## Escopo do Experimento 
 ### Etapa 1
