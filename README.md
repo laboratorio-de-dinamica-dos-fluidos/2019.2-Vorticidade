@@ -40,14 +40,13 @@ Diante do experimento idealizado, fica claro a necessidade de uso de instrumento
 ### Procedimento Experimental
 1) Reservar o laboratório para montagem do experimento
 2) Separar todos os materiais que serão utilizados
-3) Colocar um recipiente transparente com água e sal (solução condutora) em cima de dois imãs (retirados de alto-falantes) relativamente grandes para ter um campo magnético bem estendido
-4) Colocar uma fita de metal de 2,5cm de largura em volta do recipiente transparente e um eletrodo no centro do recipiente, pelo lado de dentro
-5) Acrescentar uma mistura de água com papel picado diluído para que o efeito criado possa ser observado da melhor forma possível
-6) Ligar os conectores jacarés na fita de metal e no eletrodo localizado no centro e a outra ponta nos polos positivo e negativo da fonte de alimentação, que produzirá corrente elétrica em direção a fita metálica
-7) Regular a voltagem da fonte para perceber a formação do campo magnético e observar o sentido rotacional do líquido no recipiente
-8) Inverter os polos da fonte de alimentação e observar o sentido contrário da rotação do líquido
-9) Anotar as conclusões obtidas com a formação do vórtice nos dois sentidos rotacionais
-10) Descrever o que foi observado e fazer o cálculo da vorticidade
+3) Colocar um recipiente transparente com água e sal (solução condutora) em cima de um imã grande com campo magnético estendido
+4) Colocar uma fita de metal em volta do recipiente transparente e um eletrodo no centro do recipiente, pelo lado de dentro
+5) Ligar os conectores jacarés na fita de metal e no eletrodo localizado no centro e a outra ponta nos polos positivo e negativo da fonte de alimentação.
+6) Regular a voltagem da fonte para perceber a formação do campo magnético e observar o sentido rotacional do líquido no recipiente
+7) Inverter os polos da fonte de alimentação e observar o sentido contrário da rotação do líquido
+8) Anotar as conclusões obtidas com a formação do vórtice nos dois sentidos rotacionais
+9) Descrever o que foi observado e fazer o cálculo da vorticidade
 
 ### Distribuição de Tarefas
 Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimento será feita de maneira simples, na qual:
@@ -74,9 +73,18 @@ O experimento será feito para mostrar visualmente o efeito de um campo magnéti
 
 ### Resultados
 O resultado será a comprovação do efeito de vorticidade criado na água quando aplicamos um campo magnético e o cálculo dessa vorticidade por meio do campo de movimento produzido. Também haverá variação da velocidade do vortice ou do seu movimento quando alterar os polos da bateria. <br/>
-O experimento realizado no laboratório NEI da FGA, obteve sucesso, através da montagem descrita no procedimento experimental, o grupo conseguiu observar o efeito desejado na água. 
+ 
+## Execução 
+
+### Divisão de Tarefas
+A divisão das tarefas continuou a mesma de acordo com a etapa 2. <br/>
+A montagem do experimento será realizada por todos os membros do grupo e também será feito vídeos e fotos de todo o procedimento experimental.
+
+### Descrição do Procedimento Experimental
+Para produzir o efeito vórtice em água pegamos dois imãs, retirados de auto-falantes automotivos, colocamos embaixo do recipiente transparente para criar um campo magnético. Dentro do recipiente, colocamos uma fita metálica, de aproximadamente 2.5cm de largura, nessa fita enrolamos um eletrodo, o qual será conectado a fonte de tensão utilizada, além disso, colocamos no recipiente uma solução condutora contendo água e sal e no meio do pote, colocamos o cilindro metálico onde será conectado o outro eletrodo, que quando conectado a uma fonte de tensão produza corrente elétrica em direção a fita metálica, fazendo com que o efeito vórtice na água aconteça. E, dependendo da polaridade, altere o sentido de rotação. Além dos itens citados, acrescentamos uma solução de água com papel de caderno diluído, para que o efeito fosse melhor visualizado pelos observadores. 
 
 ### Discussão Resultados
+O experimento realizado no laboratório NEI da FGA, obteve sucesso, através da montagem descrita no procedimento experimental, o grupo conseguiu observar o efeito desejado na água.<br/>
 Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e vídeos da montagem prática do experimento, o grupo analisou e tirou conclusões do que nas próximas realizações experimentais podem ser alterados. Dentre essas mudanças, se destaca que a velocidade com que acontece o efeito na água possa ter sido prejudicada por a utilização de uma fonte de tensão que nos permitia apenas 4A de corrente, que será testada com outras de maior amperagem. Além disso, o recipiente utilizado era pequeno, o que pode ter afetado também no efeito. Por último, a água diluida com papel para visualizar o efeito pode ter ficado muito densa, o que atrapalhou no momento em que iniciou o efeito no fluído. 
 
 
