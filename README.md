@@ -71,11 +71,9 @@ Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimen
 
 ### Dados a serem medidos e/ou calculados
 O experimento será feito para mostrar visualmente o efeito de um campo magnético em um líquido produzindo um vórtice. Assim, vamos tomar as linhas iniciais e finais para identificar a movimentação do vortice. 
-#
-![alt text](https://user-images.githubusercontent.com/29080946/64964641-d6e8dd00-d871-11e9-808f-c7ea4fa4785d.jpg)
 
 ### Resultados
-O resultado será a comprovação do efeito de vorticidade criado na água quando aplicamos um campo magnético e o cálculo dessa vorticidade por meio do campo de movimento produzido. Também haverá variação da velocidade do vortice ou do seu movimento quando alterar os polos da bateria. <br/>
+O resultado será a comprovação do efeito de vorticidade criado na água quando aplicamos um campo magnético por meio de recursos visuais e a observação do campo rotacional gerado. Também haverá variação do movimento do vortice quando alterar os polos da bateria. <br/>
  
 ## Execução 
 
@@ -86,9 +84,15 @@ A montagem do experimento será realizada por todos os membros do grupo e també
 ### Descrição do Procedimento Experimental
 Para produzir o efeito vórtice em água pegamos dois imãs, retirados de auto-falantes automotivos, colocamos embaixo do recipiente transparente para criar um campo magnético. Dentro do recipiente, colocamos uma fita metálica, de aproximadamente 2.5cm de largura, nessa fita enrolamos um eletrodo, o qual será conectado a fonte de tensão utilizada, além disso, colocamos no recipiente uma solução condutora contendo água e sal e no meio do pote, colocamos o cilindro metálico onde será conectado o outro eletrodo, que quando conectado a uma fonte de tensão produza corrente elétrica em direção a fita metálica, fazendo com que o efeito vórtice na água aconteça. E, dependendo da polaridade, altere o sentido de rotação. Além dos itens citados, acrescentamos uma solução de água com papel de caderno diluído, para que o efeito fosse melhor visualizado pelos observadores. 
 
+![2222](https://user-images.githubusercontent.com/54364343/66512281-fa88f700-eaae-11e9-88b0-edb5cc01cb07.jpeg)
+
+
 ### Discussão Resultados
 O experimento realizado no laboratório NEI da FGA, obteve sucesso, através da montagem descrita no procedimento experimental, o grupo conseguiu observar o efeito desejado na água.<br/>
 Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e vídeos da montagem prática do experimento, o grupo analisou e tirou conclusões do que nas próximas realizações experimentais podem ser alterados. Dentre essas mudanças, se destaca que a velocidade com que acontece o efeito na água possa ter sido prejudicada por a utilização de uma fonte de tensão que nos permitia apenas 4A de corrente, que será testada com outras de maior amperagem. Além disso, o recipiente utilizado era pequeno, o que pode ter afetado também no efeito. Por último, a água diluida com papel para visualizar o efeito pode ter ficado muito densa, o que atrapalhou no momento em que iniciou o efeito no fluído. 
+
+![IMG-20190919-WA0055](https://user-images.githubusercontent.com/54364343/66511849-2192f900-eaae-11e9-94cc-794773a619ef.jpeg)
+
 
 
 
