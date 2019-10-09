@@ -92,7 +92,7 @@ O experimento realizado no laboratório NEI da FGA, obteve sucesso, através da 
 Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e vídeos da montagem prática do experimento, o grupo analisou e tirou conclusões do que nas próximas realizações experimentais podem ser alterados. Dentre essas mudanças, se destaca que a velocidade com que acontece o efeito na água possa ter sido prejudicada por a utilização de uma fonte de tensão que nos permitia apenas 4A de corrente, que será testada com outras de maior amperagem. Além disso, o recipiente utilizado era pequeno, o que pode ter afetado também no efeito. Por último, a água diluida com papel para visualizar o efeito pode ter ficado muito densa, o que atrapalhou no momento em que iniciou o efeito no fluído. 
 <br/>
 #### Foto e Video do Experimento:
-
+![IMG](https://user-images.githubusercontent.com/54364343/66511849-2192f900-eaae-11e9-94cc-794773a619ef.jpeg)
 [![Vorticidade em água](https://img.youtube.com/vi/ULOJ3SABK_I/0.jpg)](https://www.youtube.com/watch?v=ULOJ3SABK_I)
 
 
