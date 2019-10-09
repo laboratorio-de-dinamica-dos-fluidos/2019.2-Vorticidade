@@ -7,10 +7,13 @@ Yan Rodrigues Gonçalves - 16/0149215
 
 ## Tema: Força Magnética criando Vórtice em água
 ### Objetivo
-O trabalho desenvolvido tem como objetivo demonstrar e analisar a ação de uma força magnética produzindo vórtice em água, com isso pode-se definir propriedades relacionadas a vorticidade. Será mostrada a ação de um campo magnético no líquido e observaremos as ações criadas, a variação do movimento do vórtice.
+O trabalho desenvolvido tem como objetivo visualizar a ação de uma força magnética produzindo vórtice em água, com isso pode-se definir propriedades relacionadas a vorticidade. Será mostrada a ação de um campo magnético no líquido e observaremos as ações criadas, a variação do movimento do vórtice.
 
 ## Requisitos de Solução
-Sabendo que um vórtice em um fluído se condiciona a rotação das partículas fluídas acompanhadas ou não de alguma deformação transversal, o grupo com o intuito de solucionar o problema apresentado, usará um imã para gerar um campo magnético através de uma fonte de tensão em um recipiente com água. Além disso, invertendo a polaridade da fonte de tensão, o fluído terá o sentido de rotação alterado.
+Sabendo que um vórtice em um fluído se condiciona apartir da rotação das partículas fluídas acompanhadas ou não de alguma deformação transversal, o grupo com o intuito de solucionar o problema apresentado necessitará:
+ - Escolher duas linhas perpendiculares;
+ - Analisar a posição final e inicial das linhas escolhidas;
+ - Identificar a deformação devido a diferença das posições iniciais e finais;
 
 ## Escopo do Experimento 
 ### Etapa 1
@@ -67,9 +70,9 @@ Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimen
 - 09/10: Nova discussão de resultados e cálculo da vorticidade
 
 ### Dados a serem medidos e/ou calculados
-O experimento será feito para mostrar visualmente o efeito de um campo magnético em um líquido produzindo um vórtice, os dados serão obtidos por meio de fotos e videos do experimento. Matematicamente, podemos determinar a vorticidade analisada no experimento por meio do campo vetorial definido pelo rotacional do campo de movimento.
+O experimento será feito para mostrar visualmente o efeito de um campo magnético em um líquido produzindo um vórtice. Assim, vamos tomar as linhas iniciais e finais para identificar a movimentação do vortice. 
 #
-![cats](https://user-images.githubusercontent.com/29080946/64964641-d6e8dd00-d871-11e9-808f-c7ea4fa4785d.jpg)
+![alt text](https://user-images.githubusercontent.com/29080946/64964641-d6e8dd00-d871-11e9-808f-c7ea4fa4785d.jpg)
 
 ### Resultados
 O resultado será a comprovação do efeito de vorticidade criado na água quando aplicamos um campo magnético e o cálculo dessa vorticidade por meio do campo de movimento produzido. Também haverá variação da velocidade do vortice ou do seu movimento quando alterar os polos da bateria. <br/>
