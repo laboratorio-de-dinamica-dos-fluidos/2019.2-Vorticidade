@@ -97,6 +97,8 @@ Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e
 
 ### Análise
 
+Devido as dificuldades impostas para cálculo da vorticidade, nesse experimento, buscamos apenas obsevar a deformação no fluido. Para isso tomamos duas linhas materiais A e B, perpendiculares entre si, no tempo 01s do video onde é registrado o experimento, e após um intervalo de tempo as linhas se movimentaram para A' e B', no tempo 2s. Esse deslocamento é responsável por uma deformação e o alongamento das mesmas, se relacionando a velocidade angular do escoamento, e por consequência, tornando o vórtice do experimento visível. 
+
 ![tempo1](https://user-images.githubusercontent.com/54364143/69180681-759cee80-0aec-11ea-9a23-05b2810059b5.png)
 
 
