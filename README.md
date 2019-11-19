@@ -95,6 +95,11 @@ Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e
 ![IMG](https://user-images.githubusercontent.com/54364343/66511849-2192f900-eaae-11e9-94cc-794773a619ef.jpeg)
 [![Vorticidade em água](https://img.youtube.com/vi/ULOJ3SABK_I/0.jpg)](https://www.youtube.com/watch?v=ULOJ3SABK_I)
 
+### Análise
+
+![tempo1](https://user-images.githubusercontent.com/54364143/69180681-759cee80-0aec-11ea-9a23-05b2810059b5.png)
+
+
 
 
 
