@@ -100,6 +100,9 @@ Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e
 ![tempo1](https://user-images.githubusercontent.com/54364143/69180681-759cee80-0aec-11ea-9a23-05b2810059b5.png)
 
 
+![tempo2](https://user-images.githubusercontent.com/54364143/69180861-d0364a80-0aec-11ea-8948-52d14390c8aa.png)
+
+
 
 
 
