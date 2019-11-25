@@ -119,8 +119,8 @@ O objetivo do trabalho desenvolvido no laboratório foi atingido, pode-se perceb
 
 ## Referências Bibliográficas
 
-[1] M .WHITE, Frank. Mecânica dos fluidos. 6. ed. McGraw Hill.
-[2] Força Magnética Produz Vórtice na Água - Água Magnetizada. Disponível em: https://www.youtube.com/watch?v=4pOAZuerxbU
+[1] M .WHITE, Frank. Mecânica dos fluidos. 6. ed. McGraw Hill.<br/>
+[2] Força Magnética Produz Vórtice na Água - Água Magnetizada. Disponível em: https://www.youtube.com/watch?v=4pOAZuerxbU<br/>
 [3] Dinâmica da Vorticidade. UFPR - FTP. Disponível em: http://ftp.demec.ufpr.br/disciplinas/EMEC7033/CAP05_Dinamica_vorticidade.pptx
 
 
