@@ -100,7 +100,7 @@ Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e
 
 ## Teoria Envolvida
 Define-se vorticidade como uma medida da rotaçãoao do escoamento. Para definir esta grandeza, tomam-se duas linhas materiais de fluido AB e BC, inicialmente perpendiculares em um tempo inicial t. Estas linhas se movimentarão em um escoamento, conforme a figura:
-![IMG](https://user-images.githubusercontent.com/29080946/69571093-074ea500-0fa0-11ea-894a-6839540a0082.png)
+![IMG](https://user-images.githubusercontent.com/29080946/69571093-074ea500-0fa0-11ea-894a-6839540a0082.png) <br/>
 Decorrido um tempo ∆t, estas linhas materiais se moverão e se deformarão para uma configuração A’B’ e B’C'
 
 
@@ -117,7 +117,7 @@ Devido as dificuldades impostas para cálculo da vorticidade, nesse experimento,
 
 O objetivo do trabalho desenvolvido no laboratório foi atingido, pode-se perceber com a execução do experimento efeito da vorticidade na água. De acordo com a teoria, a deformação da água pode ser observada quando tiramos duas linhas imaginárias para comparar em dois tempos distintos da rotação do fluído. Por mais que não tenha sido possível calcular a rotação do escoamento, o grupo teve noção do que acontece nessa situação e como ocorre a deformação do sistema.
 
-##Referências Bibliográficas
+## Referências Bibliográficas
 
 [1] M .WHITE, Frank. Mecânica dos fluidos. 6. ed. McGraw Hill.
 [2] Força Magnética Produz Vórtice na Água - Água Magnetizada. Disponível em: https://www.youtube.com/watch?v=4pOAZuerxbU
