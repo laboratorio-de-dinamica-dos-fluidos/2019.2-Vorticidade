@@ -67,7 +67,7 @@ Como requisitado no escopo do projeto, a atribuição de tarefas nesse experimen
 - 21/09: Entrega de fotos da montagem; 
 - 28/09: Entrega de dados e descrições do experimento.
 - 02/10: Nova montagem e execução do experimento para realizar duplicatas
-- 09/10: Nova discussão de resultados e cálculo da vorticidade
+- 09/10: Nova discussão de resultados 
 
 ### Dados a serem medidos e/ou calculados
 O experimento será feito para mostrar visualmente o efeito de um campo magnético em um líquido produzindo um vórtice. Assim, vamos tomar as linhas iniciais e finais para identificar a movimentação do vortice. 
@@ -86,6 +86,9 @@ Para produzir o efeito vórtice em água pegamos dois imãs, retirados de auto-f
 
 ![2222](https://user-images.githubusercontent.com/54364343/66512281-fa88f700-eaae-11e9-88b0-edb5cc01cb07.jpeg)
 
+### Cronograma (Atualização)
+- 16/10: Montagem das linhas iniciais e finais do vortice para comparação;
+- 23/10: Feita análise, discussão e conclusão final sobre o experimento;
 
 ### Discussão Resultados
 O experimento realizado no laboratório NEI da FGA, obteve sucesso, através da montagem descrita no procedimento experimental, o grupo conseguiu observar o efeito desejado na água.<br/>
@@ -95,14 +98,30 @@ Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e
 ![IMG](https://user-images.githubusercontent.com/54364343/66511849-2192f900-eaae-11e9-94cc-794773a619ef.jpeg)
 [![Vorticidade em água](https://img.youtube.com/vi/ULOJ3SABK_I/0.jpg)](https://www.youtube.com/watch?v=ULOJ3SABK_I)
 
-### Análise
+## Teoria Envolvida
+Define-se vorticidade como uma medida da rotaçãoao do escoamento. Para definir esta grandeza, tomam-se duas linhas materiais de fluido AB e BC, inicialmente perpendiculares em um tempo inicial t. Estas linhas se movimentarão em um escoamento, conforme a figura:
+![IMG](https://user-images.githubusercontent.com/29080946/69571093-074ea500-0fa0-11ea-894a-6839540a0082.png)
+Decorrido um tempo ∆t, estas linhas materiais se moverão e se deformarão para uma configuração A’B’ e B’C'
 
+
+## Análise
 Devido as dificuldades impostas para cálculo da vorticidade, nesse experimento, buscamos apenas obsevar a deformação no fluido. Para isso tomamos duas linhas materiais A e B, perpendiculares entre si, no tempo 01s do video onde é registrado o experimento, e após um intervalo de tempo as linhas se movimentaram para A' e B', no tempo 2s. Esse deslocamento é responsável por uma deformação e o alongamento das mesmas, se relacionando a velocidade angular do escoamento, e por consequência, tornando o vórtice do experimento visível. 
 
 ![tempo1](https://user-images.githubusercontent.com/54364143/69180681-759cee80-0aec-11ea-9a23-05b2810059b5.png)
 
 
 ![tempo2](https://user-images.githubusercontent.com/54364143/69180861-d0364a80-0aec-11ea-8948-52d14390c8aa.png)
+
+
+## Conclusão
+
+O objetivo do trabalho desenvolvido no laboratório foi atingido, pode-se perceber com a execução do experimento efeito da vorticidade na água. De acordo com a teoria, a deformação da água pode ser observada quando tiramos duas linhas imaginárias para comparar em dois tempos distintos da rotação do fluído. Por mais que não tenha sido possível calcular a rotação do escoamento, o grupo teve noção do que acontece nessa situação e como ocorre a deformação do sistema.
+
+##Referências Bibliográficas
+
+[1] M .WHITE, Frank. Mecânica dos fluidos. 6. ed. McGraw Hill.
+[2] Força Magnética Produz Vórtice na Água - Água Magnetizada. Disponível em: https://www.youtube.com/watch?v=4pOAZuerxbU
+[3] Dinâmica da Vorticidade. UFPR - FTP. Disponível em: http://ftp.demec.ufpr.br/disciplinas/EMEC7033/CAP05_Dinamica_vorticidade.pptx
 
 
 
