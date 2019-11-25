@@ -99,7 +99,7 @@ Apesar de ter conseguido o efeito desejado, conforme se pode ver pela as fotos e
 [![Vorticidade em água](https://img.youtube.com/vi/ULOJ3SABK_I/0.jpg)](https://www.youtube.com/watch?v=ULOJ3SABK_I)
 
 ## Teoria Envolvida
-Define-se vorticidade como uma medida da rotaçãoao do escoamento. Para definir esta grandeza, tomam-se duas linhas materiais de fluido AB e BC, inicialmente perpendiculares em um tempo inicial t. Estas linhas se movimentarão em um escoamento, conforme a figura:
+Define-se vorticidade como uma medida da rotaçãoao do escoamento. Para definir esta grandeza, tomam-se duas linhas materiais de fluido AB e BC, inicialmente perpendiculares em um tempo inicial t. Estas linhas se movimentarão em um escoamento, conforme a figura: <br/>
 ![IMG](https://user-images.githubusercontent.com/29080946/69571093-074ea500-0fa0-11ea-894a-6839540a0082.png) <br/>
 Decorrido um tempo ∆t, estas linhas materiais se moverão e se deformarão para uma configuração A’B’ e B’C'
 
